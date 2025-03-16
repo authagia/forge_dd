@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"amera"
+	],
+	"copyright": "Copyright © 2025, amera",
+	"description": "Forge Decode D. Extract forge mod list.",
+	"license": "MIT",
+	"name": "forge_dd"
+}
